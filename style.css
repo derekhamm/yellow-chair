@@ -995,8 +995,8 @@ object {
 /* Variables */
 
 :root {
-	--back-color: #fdfaf7;
-	--text-color: #231f20;
+	--text-color: #fdfaf7;
+	--back-color: #231f20;
 	--foot-color: #ffdd74;
 	--link-color: #825c24;
 	--inactive-color: #888888;
